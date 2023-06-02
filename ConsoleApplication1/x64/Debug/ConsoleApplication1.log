@@ -1,0 +1,8 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\lenovo\OneDrive\Stalinis kompiuteris\DOMENAS\ConsoleApplication1\ConsoleApplication1.cpp(8,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Source.cpp
+C:\Users\lenovo\OneDrive\Stalinis kompiuteris\DOMENAS\ConsoleApplication1\Source.cpp(72,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\lenovo\OneDrive\Stalinis kompiuteris\DOMENAS\ConsoleApplication1\Source.cpp(140,44): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\lenovo\OneDrive\Stalinis kompiuteris\DOMENAS\ConsoleApplication1\Source.cpp(222,9): warning C4101: 'paskutinis': unreferenced local variable
+  Generating Code...
+  ConsoleApplication1.vcxproj -> C:\Users\lenovo\OneDrive\Stalinis kompiuteris\DOMENAS\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
